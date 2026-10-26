@@ -1,3 +1,5 @@
+> **⚠️ Retired 2026-10-26.** Superhighway has been shut down: `superhighway.walls.sh` returns `410 Gone`, so nothing in this repo works any more. The repo is archived and kept for reference only.
+
 # Superhighway Examples
 
 Runnable examples for the [Superhighway](https://superhighway.walls.sh) web search API — a search, news, images, scrape, and research API for AI agents.
